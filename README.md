@@ -1,2 +1,2 @@
-# Multiple Chronic Disease
+# Multiple Chronic Diseases
 Multiple Chronic Disease Prediction
